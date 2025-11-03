@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Abdizamed Mohamed Faarah</h1>
+<h1 align="center">Abdizamed Mohamed</h1>
 <p align="center">
   🧠 Solo Engineer | 🏗️ System Architect | 📱 Built empires with a phone | 🥷 Leader in the making<br/>
   <i>"I don't just write code, I build weapons for digital revolutions."</i>
