@@ -1,98 +1,135 @@
 <h1 align="center">Abdisamed Mohamed</h1>
+
 <p align="center">
-  🧠 Solo Engineer | 🏗️ System Architect | 📱 Built empires with a phone | 🥷 Leader in the making<br/>
-  <i>"I don't just write code, I build weapons for digital revolutions."</i>
+  <strong>Software Engineer · Open-Source Builder · Systems-Oriented Developer</strong>
+</p>
+
+<p align="center">
+  I design and build practical software systems with a strong focus on architecture,
+  developer experience, maintainability, and long-term product quality.
+</p>
+
+<p align="center">
+  <a href="https://zamdev.io">Website</a>
+  ·
+  <a href="mailto:me@zamdev.io">Email</a>
+  ·
+  <a href="https://t.me/zamdevio">Telegram</a>
 </p>
 
 ---
 
-### 💥 Origin Story (No Filters)
+## About Me
 
-Ever seen someone build full-stack platforms with zero mentorship, no degree, and a 4GB Samsung phone?
+I’m a self-taught software engineer and Computer Science student who enjoys turning complex ideas into structured, maintainable systems.
 
-Now you have.
+I started building software with limited resources and learned by reading documentation, studying open-source repositories, experimenting, and shipping real projects. That experience shaped how I work today: independently, deliberately, and with a strong respect for good architecture.
 
-No fake bootcamps. No $99 courses. Just pure hunger, curiosity, and hours spent reading source code in bed while the world slept.  
-They gave me no tools, so I *became* the toolset.
-
-I'm not here to impress — I'm here to build what I once needed and help others skip the suffering I went through.
+I care about more than making software work. I care about making it understandable, reliable, and easier for the next developer—or AI agent—to continue building.
 
 ---
 
-### 🧠 What I Bring to the Table (Besides Fire)
+## What I Work On
 
-- 🪛 Full-stack Dev (HTML / CSS / JS / PHP / Shell / Python)
-- 🤖 Telegram Bot Architect (plugin system, admin panel, modular AF)
-- 🧱 API engineering with structure and love
-- ⚙️ Custom automation for days (Scripts, scrapers, handlers, and crawlers)
-- 🧩 Debugging Pro — I see bugs in dreams bro
-
-> I don’t follow documentation. I *become* the documentation.
-
----
-
-### 🐍 The Bot That Eats Other Bots
-
-I built what I call one of the most flexible Telegram Bot architectures out there:
-
-- Drop a new feature file into a folder? BOOM — it’s available to the admin inside the bot.
-- Every module is a plug-in. Every action can be toggled with the admin panel.
-- Easily scalable. Minimal friction. Pure elegance.
-
-> Built solo. Designed with warzone logic. Powered by my belief in impossible.
+- Full-stack applications and developer tools
+- API design and backend architecture
+- Automation, scripts, crawlers, and internal tooling
+- Internationalization and localization workflows
+- Repository architecture and engineering documentation
+- Cloud-native systems built around the Cloudflare ecosystem
+- Open-source software designed for real-world use
 
 ---
 
-### 📦 Projects That Prove It
+## Selected Projects
 
-| Project             | What’s the Hype?                                                                           |
-| ------------------- | ------------------------------------------------------------------------------------------ |
-| System Builder      | I build powerful systems using modern frameworks and languages — no excuses, just results. |
-| Telegram Bot System | Modular, scalable, admin-powered, fire-breathing code-beast.                               |
-| 40+ API Platform    | Built from scratch, solo, with a phone. Yes, read that again.                              |
+### [i18nprune](https://github.com/zamdevio/i18nprune)
 
+An open-source toolkit for identifying and managing unused internationalization resources.
 
+Built with an emphasis on correctness, maintainability, repository health, and developer experience.
 
----
+### CepatEdge
 
-### 🧬 Mindset: I Think in Blueprints
+A modern platform currently in development, with ongoing work across its backend architecture, user interface, and product experience.
 
-> “You can't really master a system until you've been forced to build it without knowing how.”
+### Cultural Publishing Platform
 
-- I don’t just build apps — I build systems.
-- My code is structured to survive collapse and built for future collab.
-- I build like someone who never had a second chance.  
-  That’s because I didn’t.
+An upcoming open-source platform focused on helping Somali writers publish their work and preserving books, poetry, audio, video, manuscripts, and other culturally significant material.
+
+The broader goal is to create infrastructure that can later be adapted for other underrepresented languages and regions.
 
 ---
 
-### 🫱🏽‍🫲🏾 Looking For...
+## How I Build
 
-- Creators who build with soul
-- Teams that value real talent, not just certificates
-- People who want to disrupt, not decorate
-- Mentors who’d rather grow with me than lecture
+I approach software as a system rather than a collection of isolated features.
+
+That usually means:
+
+- Planning architecture before implementation
+- Writing documentation alongside the code
+- Keeping responsibilities and boundaries explicit
+- Designing repositories for both humans and coding agents
+- Automating repetitive engineering workflows
+- Reviewing decisions for long-term maintenance
+- Shipping in clear, traceable phases
+
+My repositories often include structured internal documentation for project phases, system responsibilities, agent guidance, architectural decisions, and completed work.
 
 ---
 
-### 🧠 Fun Facts About Me
+## Technologies
 
-- Built my first project by reading GitHub repos — without knowing the language
-- Never touched VS Code until a year into my journey
-- Don't ask how I debug... Just know I will find the bug 😈
-- My phone worked harder than most interns
+**Languages**
+
+`TypeScript` · `JavaScript` · `Python` · `PHP` · `Shell` · `HTML` · `CSS`
+
+**Frontend**
+
+`React` · `Vite` · Single-Page Applications · State Management · Responsive UI
+
+**Backend and Infrastructure**
+
+`Node.js` · REST APIs · Cloudflare Workers · Cloudflare Pages · R2 · Durable Objects
+
+**Engineering**
+
+`Git` · `GitHub Actions` · Monorepos · Automation · Testing · Static Analysis · Technical Documentation
 
 ---
 
-### 📫 Let's Build or Talk:
+## Current Focus
 
+- Building reliable open-source tools
+- Improving agent-friendly repository architecture
+- Developing CepatEdge
+- Planning infrastructure for cultural and literary preservation
+- Strengthening my knowledge of distributed systems and software architecture
+
+---
+
+## Engineering Principles
+
+> Build software that remains understandable after the original excitement is gone.
+
+- Clarity over cleverness
+- Systems over shortcuts
+- Documentation as part of the product
+- Automation where repetition creates risk
+- Strong foundations before unnecessary scale
+- Consistency over temporary motivation
+
+---
+
+## Connect
+
+- Website: [zamdev.io](https://zamdev.io)
+- Email: [me@zamdev.io](mailto:me@zamdev.io)
 - Telegram: [@zamdevio](https://t.me/zamdevio)
-- Email: me@zamdev.io
-- Projects: [ZamDev](https://zamdev.io)
 
 ---
 
 <p align="center">
-  <i>“Built from chaos. Raised by code. Driven by a dream too loud to ignore.”</i><br/>
-  <b>#BuiltDifferent</b>
+  <i>Building useful systems, documenting the journey, and improving with every release.</i>
 </p>
