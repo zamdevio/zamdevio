@@ -82,7 +82,7 @@ Open-source cards get named here when they’re public. Until then, the field wo
 ## GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zamdevio&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=zamdevio&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=zamdevio&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 
