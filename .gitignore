@@ -1,0 +1,6 @@
+# Ignore local staging (never push until promoted into README)
+projects/
+topics/
+
+# Agent design/plan notes for this workspace (not part of the public profile)
+docs/
